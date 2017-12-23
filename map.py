@@ -44,4 +44,4 @@ base_map.add_child(fgv)
 # Layer control looks for children added to the map before displaying them as a control
 # Ideally every feature should be added as a separate feature group to create individual layer control for them
 base_map.add_child(folium.LayerControl())
-base_map.save("Map.html") # Creates an HTML file of the map with the specified parameters
+base_map.save("world_map.html") # Creates an HTML file of the map with the specified parameters
