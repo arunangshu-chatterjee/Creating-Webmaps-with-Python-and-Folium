@@ -1,3 +1,4 @@
+__author__      = "Arunangshu Chatterjee"
 import folium
 import pandas
 
